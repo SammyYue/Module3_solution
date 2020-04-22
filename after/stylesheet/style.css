@@ -1,0 +1,16 @@
+body{
+	font-size: 16 px;
+	color: #ffff;
+	background-color: #61122f;
+	font-family: 'Oxygen', sans-serif;
+}
+
+nav{
+	background-color: blue;
+	height: 80px;
+	margin: 0px;
+}
+
+h3{
+	color: pink;
+}
