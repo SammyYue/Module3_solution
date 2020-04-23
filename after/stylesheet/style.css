@@ -1,16 +1,30 @@
-body{
-	font-size: 16 px;
-	color: #ffff;
-	background-color: #61122f;
-	font-family: 'Oxygen', sans-serif;
+.row{
+	width: 100%;
+}
+#col-a{
+	background-color: lavender;
 }
 
-nav{
-	background-color: blue;
-	height: 80px;
-	margin: 0px;
+#col-b{
+	background-color: lavenderblush;
+}
+
+#col-c{
+	background-color: lavender;
 }
 
 h3{
-	color: pink;
+	color: red;
+}
+
+.container{
+	text-align: center;
+}
+
+h4{
+	text-align: center;
+}
+
+.navbar-nav{
+	text-align: center;
 }
